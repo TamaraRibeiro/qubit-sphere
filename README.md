@@ -6,7 +6,7 @@ Creating a Bloch Sphere in python
 - python
 - pip
 
-## If necessary, install using 'pip install command' the modules:
+## If necessary, install using 'pip install' command the modules:
 
 - numpy
 - matplotlib
