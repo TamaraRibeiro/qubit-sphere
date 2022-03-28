@@ -8,12 +8,4 @@ Drawing of a Qubit Sphere
 - python
 - jupyter notebook
 - pip
-
-# Requirements to install using pip
-
-pip install qiskit
-pip install python-dotenv
-pip install matplotlib
-pip install pylatexenc
-
-* after that
+//test
