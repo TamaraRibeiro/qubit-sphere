@@ -1,5 +1,5 @@
-# A qubit-sphere
-Creating a Qubit Sphere
+# qubit-sphere
+Creating a Bloch Sphere
 
 ## You should have installed in your computer:
 
