@@ -2,9 +2,9 @@
 Drawing of a Qubit Sphere
 
 # installed
-python
-jupyter notebook
-pip
+- python
+- jupyter notebook
+- pip
 
 # Requirements to install using pip
 
