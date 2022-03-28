@@ -1,5 +1,5 @@
 # qubit-sphere
-Creating a Bloch Sphere
+Creating a Bloch Sphere in python
 
 ## You should have installed in your computer:
 
