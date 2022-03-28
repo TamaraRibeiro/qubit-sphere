@@ -1,11 +1,12 @@
-# qubit-sphere
-Drawing of a Qubit Sphere
+# A qubit-sphere
+Creating a Qubit Sphere
 
-# installed
-
-## test installed
+## You should have installed in your computer:
 
 - python
-- jupyter notebook
 - pip
-//test
+
+## If necessary, install using 'pip install command' the modules:
+
+- numpy
+- matplotlib
