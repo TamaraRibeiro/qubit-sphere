@@ -15,3 +15,5 @@ pip install qiskit
 pip install python-dotenv
 pip install matplotlib
 pip install pylatexenc
+
+* after that
