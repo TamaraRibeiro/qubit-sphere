@@ -12,3 +12,8 @@ Creating a Bloch Sphere in python
 numpy
 matplotlib
 ```
+
+## To run the project:
+```sh
+python3 blochSphere.py
+```
