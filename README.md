@@ -9,6 +9,6 @@ Creating a Bloch Sphere in python
 ## If necessary, install using 'pip install' command the modules:
 
 ```sh
-numpy
+- numpy
 matplotlib
 ```
